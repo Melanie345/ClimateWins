@@ -31,4 +31,8 @@ The project folders are stored in the folder structure:
 -  Data: Orignal Data and Prepared Data
 -  Scripts: Jupyter notebooks containing coding for the analysis
 
+# Deliverable
+
+-  Powerpoint Presentation
+
 
