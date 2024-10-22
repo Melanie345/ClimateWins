@@ -10,6 +10,7 @@ ClimateWins is interested in using machine learning to help predict the conseque
 
 # Data Sets
 Data set was based on weather observations from 18 different weather station across Europe, which contain data ranging from the late 1800s to 2022.  Recordings exist for almost everyday with values such as temperature, wind speed, snow, global radiation and more.  
+
 -  dataset-weather-prediction-dataset-processed.csv
 -  dataset-Answers-Weather_Prediction_Pleasant_Weather.csv
 Data is collected from the European Climate Assessment & Data Set project.
@@ -17,17 +18,17 @@ Data is collected from the European Climate Assessment & Data Set project.
 # Libraries
 The data analysis and visualizations were conducted using Jupyter notebooks in the Python Environment, the libraries used:
 
-Pandas: for data analysis
-Numpy: for mathematical equations
-Seaborn: for data visualizations
-Matplotlib: for data visualizations
-os: for handling file paths, creating and removing directories, retrieve environment variables, and run basic system commands
+-  Pandas: for data analysis
+-  Numpy: for mathematical equations
+-  Seaborn: for data visualizations
+-  Matplotlib: for data visualizations
+-  os: for handling file paths, creating and removing directories, retrieve environment variables, and run basic system commands
 
 # Folders
 The project folders are stored in the folder structure:
 
-01 Project Management: Project Brief
-02 Data: Orignal Data and Prepared Data
-03 Scripts: Jupyter notebooks containing coding for the analysis
+-  Project Management: Project Brief
+-  Data: Orignal Data and Prepared Data
+-  Scripts: Jupyter notebooks containing coding for the analysis
 
 
