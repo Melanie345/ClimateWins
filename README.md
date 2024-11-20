@@ -46,7 +46,7 @@ Geospatial and Mapping:
 Visualization of Pair Plots and Heatmaps:
   -  sns.pairplot: For analyzing relationships across variables.
   -  sns.heatmap: For visualizing correlation matrices.
-  -  
+
 Additional Utilities:
   -  operator: For functional-style operations (e.g., sorting or mapping).
   -  glob: For file searching with pattern matching.
