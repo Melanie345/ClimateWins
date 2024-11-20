@@ -55,8 +55,9 @@ Additional Utilities:
 The project folders are stored in the folder structure:
 
 -  Project Management: Project Brief
--  Data: Orignal Data and Prepared Data
+-  Data Sets
 -  Scripts: Jupyter notebooks containing coding for the analysis
+-  Visualizations
 
 # Deliverable
 
