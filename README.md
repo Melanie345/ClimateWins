@@ -60,6 +60,6 @@ The project folders are stored in the folder structure:
 
 # Deliverable
 
--  Powerpoint Presentation
+-  Powerpoint Presentations
 
 
