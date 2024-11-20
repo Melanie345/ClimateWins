@@ -17,12 +17,39 @@ Data is collected from the European Climate Assessment & Data Set project.
 
 # Libraries
 The data analysis and visualizations were conducted using Jupyter notebooks in the Python Environment, the libraries used:
-
+Core Libraries
 -  Pandas: for data analysis
 -  Numpy: for mathematical equations
 -  Seaborn: for data visualizations
 -  Matplotlib: for data visualizations
 -  os: for handling file paths, creating and removing directories, retrieve environment variables, and run basic system commands
+Machine Learning and Data Processing:
+-  scikit-learn: For machine learning models, metrics, and data preprocessing tools.
+    -  Modules include:
+      -  accuracy_score, confusion_matrix, ConfusionMatrixDisplay (metrics)
+      -  Random Forest model
+      -  K-Means algorithm
+    -  PCA and dendrograms for dimensionality reduction and clustering.
+
+Deep Learning:
+  -  TensorFlow: For building and training deep learning models.
+  -  Keras (part of TensorFlow): For simplifying model building.
+     -  Used layers like:
+      -  Dense, Dropout, Conv1D, Conv2D, Flatten, BatchNormalization, Activation, MaxPooling2D.
+    -  Utilities:
+      -  to_categorical for encoding.
+    -  ImageDataGenerator for image augmentation.
+
+Geospatial and Mapping:
+  -  Folium: For creating interactive maps (e.g., choropleth maps).
+
+Visualization of Pair Plots and Heatmaps:
+  -  sns.pairplot: For analyzing relationships across variables.
+  -  sns.heatmap: For visualizing correlation matrices.
+  -  
+Additional Utilities:
+  -  operator: For functional-style operations (e.g., sorting or mapping).
+  -  glob: For file searching with pattern matching.
 
 # Folders
 The project folders are stored in the folder structure:
